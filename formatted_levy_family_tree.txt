@@ -1,0 +1,381 @@
+
+Menachem Cantos (id=B1)
+Mazalto Moses (id=mB1)
+	David Cantos (id=B1a)
+	Malka Cantos (id=B1b)
+	Esther Cantos (id=B1c)
+	Ralph Cantos (id=B1d)
+	Moushun 'Morris' Cantos (id=B1e)
+	Solomon 'Sol' Cantos (id=B1f)
+	Avram 'Abe' Cantos (id=B1g)
+
+Malka Cantos (id=B1b)
+Joseph Haim Yomtov (id=mB1b)
+	Haim Joseph Yomtov (id=B1b1)
+	Menachem Joseph Yomtov (id=B1b2)
+	Moshe 'Morris' (id=B1b3)
+	Twin Son #1 (id=B1b4)
+	Twin Son #2 (id=B1b5)
+	Mollie Yomtov (id=B1b6)
+
+Haim Joseph Yomtov (id=B1b1)
+Anna (id=mB1b1)
+	Joseph Yomtov (id=B1b1a)
+	Morris Yomtov (id=B1b1b)
+	Sarah Yomtov (id=B1b1c)
+
+Joseph Yomtov (id=B1b1a)
+Nancy (id=mB1b1a)
+	David Yomtov (id=B1b1a1)
+	Anna Yomtov (id=B1b1a2)
+	Naomi Yomtov (id=B1b1a3)
+
+Naomi Yomtov (id=B1b1a3)
+Robert 'Bob' Odenkirk (id=mB1b1a3)
+	Nathan Odenkirk (id=B1b1a3a)
+
+Sarah Yomtov (id=B1b1c)
+Roberto Lopez (id=mB1b1c)
+	Benjamin Lopez then Benjamin Yomtov (id=B1b1c1)
+	Hannah Lopez (id=B1b1c2)
+	Jesse Lopez (id=B1b1c3)
+
+Benjamin Lopez then Benjamin Yomtov (id=B1b1c1)
+Susan (id=mB1b1c1)
+	Maxx Yomtov (id=B1b1c1a)
+
+Hannah Lopez (id=B1b1c2)
+Thad Dingman (id=mB1b1c2)
+	no kids (id=nokidsB1b1c2)
+
+Menachem Joseph Yomtov (id=B1b2)
+Esther Asser (id=mB1b2)
+	Joseph Yomtov (id=B1b2a)
+	Morris Yomtov (id=B1b2b)
+	Renee Yomtov (id=B1b2c)
+
+Joseph Yomtov (id=B1b2a)
+Michelle (id=mB1b2a)
+	no kids (id=nokidsB1b2a)
+
+Renee Yomtov (id=B1b2c)
+Murray Rosenthal (id=mB1b2c)
+	David Menachem Rosenthal (id=B1b2c1)
+	Joshua Ira Rosenthal (id=B1b2c2)
+
+Joshua Ira Rosenthal (id=B1b2c2)
+Ruth Gerson (id=mB1b2c2)
+	Emma Pearl Rosenthal (id=B1b2c2a)
+	Hazel Lillie Rosenthal (id=B1b2c2b)
+
+Mollie Yomtov (id=B1b6)
+Sol Sarfaty d: 1980? 'California' (id=mB1b6)
+	Estelle Sarfaty (id=B1b6a)
+	Sidney Sarfaty (id=B1b6b)
+
+Esther Cantos (id=B1c)
+Jessula 'Jesse' Mordechai Levy (id=mB1c)
+	Mazalto 'Mollie' Levy (id=B1c1)
+	Mordechai J 'Mac' Levy (id=B1c2)
+	Menachem J 'Mannie' Levy (id=B1c3)
+	Sara Levy (id=B1c4)
+	David J Levy (id=B1c5)
+	Anne Levy (id=B1c6)
+	Morris J Levy (id=B1c7)
+	Rachel Levy (id=B1c8)
+
+Mazalto 'Mollie' Levy (id=B1c1)
+Sol Cantos (id=mB1c1)
+	Mannie S Cantos (id=B1c1a)
+	Jesse Cantos (id=B1c1b)
+	Morris 'Mussie' Cantos (id=B1c1c)
+	David Cantos (id=B1c1d)
+
+Mannie S Cantos (id=B1c1a)
+Evelyn Gedalowitz (id=mB1c1a)
+	no kids (id=nokidsB1c1a)
+
+Mordechai J 'Mac' Levy (id=B1c2)
+Pearl Spiegel (id=mB1c2)
+	Doris Levy (id=B1c2a)
+
+Doris Levy (id=B1c2a)
+Morris Levy (id=mB1c2a)
+	Jeffrey Bruce Levy (id=B1c2a1)
+	Eric Michael Levy (id=B1c2a2)
+	Edward Fred Levy (id=B1c2a3)
+
+Jeffrey Bruce Levy (id=B1c2a1)
+Joan Labonte; m'2': Joan MannixNov (id=mB1c2a1)
+	Morris Levy (id=B1c2a1a)
+	Martin Levy (id=B1c2a1b)
+	Madeline Levy (id=B1c2a1c)
+
+Eric Michael Levy (id=B1c2a2)
+Aileen Meyers (id=mB1c2a2)
+	Benjamin Levy (id=B1c2a2a)
+	Donovan Levy (id=B1c2a2b)
+
+Menachem J 'Mannie' Levy (id=B1c3)
+Ria (id=mB1c3)
+	Robert 'Bobby' Levy (id=B1c3a)
+	Helen Levy (id=B1c3b)
+
+Robert 'Bobby' Levy (id=B1c3a)
+Gloria (id=mB1c3a)
+	Steven Levy (id=B1c3a1)
+	Son (id=B1c3a2)
+
+Sara Levy (id=B1c4)
+Albert Ergas (id=mB1c4)
+	Leonard Samuel 'Lenny' Ergas (id=B1c4a)
+	Jerry Ergas (id=B1c4b)
+
+Leonard Samuel 'Lenny' Ergas (id=B1c4a)
+Elizabeth Pines (id=mB1c4a)
+	no kids (id=nokidsB1c4a)
+
+Jerry Ergas (id=B1c4b)
+Beverly Stoppick (id=mB1c4b)
+	Elizabeth Ergas (id=B1c4b1)
+	Bonnie Ergas (id=B1c4b2)
+
+Elizabeth Ergas (id=B1c4b1)
+Robert 'Rob' Melillo (id=mB1c4b1)
+	Nicole Melillo (id=B1c4b1b)
+
+Bonnie Ergas (id=B1c4b2)
+Steve Cheskes (id=mB1c4b2)
+	Brooke Alexandra Cheskes (id=B1c4b2a)
+
+David J Levy (id=B1c5)
+Ruth Goldenberg (id=mB1c5)
+	Joan Levy (id=B1c5a)
+	Marjorie 'Migs' Levy (id=B1c5b)
+
+Joan Levy (id=B1c5a)
+Peter Klemm (id=mB1c5a)
+	no kids (id=nokidsB1c5a)
+
+Marjorie 'Migs' Levy (id=B1c5b)
+Ronald Sallon (id=mB1c5b)
+	Jacob Levy Sallon (id=B1c5b1)
+
+Anne Levy (id=B1c6)
+Benjamin Chernick (id=mB1c6)
+	Sidney Chernick (id=B1c6a)
+
+Sidney Chernick (id=B1c6a)
+Rosalie Weiss (id=mB1c6a)
+	Emily Chernick (id=B1c6a1)
+	Benjamin Chernick (id=B1c6a2)
+
+Emily Chernick (id=B1c6a1)
+Jeremy David Rachlin (id=mB1c6a1)
+	Alyssa Rachlin (id=B1c6a1a)
+
+Morris J Levy (id=B1c7)
+Yvette Rosenbaum (id=mB1c7)
+	Jesse Peter Levy (id=B1c7a)
+	Daniel Carl Levy (id=B1c7b)
+
+Jesse Peter Levy (id=B1c7a)
+Olivia Koppell (id=mB1c7a)
+	Gabriella Kate Levy (id=B1c7a1)
+
+Gabriella Kate Levy (id=B1c7a1)
+Nik Kubasek (id=mB1c7a1)
+	no kids (id=nokidsB1c7a1)
+
+Daniel Carl Levy (id=B1c7b)
+April Lambert (id=mB1c7b)
+	Morris Eli Levy (id=B1c7b1)
+	Aaron Jacob Levy (id=B1c7b2)
+	Joshua Matthew Levy (id=B1c7b3)
+
+Morris Eli Levy (id=B1c7b1)
+Daniela Smolov (id=mB1c7b1)
+	Isaac Emmanuel Levy (id=B1c7b1a)
+	Anna Esher Levy (id=B1c7b1b)
+	Yvette Miriam Levy (id=B1c7b1c)
+	Abraham Mordechai Levy (id=B1c7b1d)
+
+Aaron Jacob Levy (id=B1c7b2)
+Rebecca Goldberg (id=mB1c7b2)
+	no kids (id=nokidsB1c7b2)
+
+Joshua Matthew Levy (id=B1c7b3)
+Colleen McCullough (id=mB1c7b3)
+	no kids (id=nokidsB1c7b3)
+
+Rachel Levy (id=B1c8)
+Jack Weinberg (id=mB1c8)
+	Daniel Hyman 'Dan' Weinberg (id=B1c8a)
+	Jonathan Richard Weinberg (id=B1c8b)
+
+Daniel Hyman 'Dan' Weinberg (id=B1c8a)
+Page Raboteau Laws (id=mB1c8a)
+	Garrett Jesse Laws Weinberg (id=B1c8a1)
+	Henry Raboteau Laws Weinberg (id=B1c8a2)
+	George Virgil Laws Weinberg (id=B1c8a3)
+
+Garrett Jesse Laws Weinberg (id=B1c8a1)
+Shannon Cuff (id=mB1c8a1)
+	no kids (id=nokidsB1c8a1)
+
+Henry Raboteau Laws Weinberg (id=B1c8a2)
+Stacey Deering Babb (id=mB1c8a2)
+	Ethan Babb Weinberg (id=B1c8a2a)
+	Heather Babb Weinberg (id=B1c8a2b)
+
+George Virgil Laws Weinberg (id=B1c8a3)
+Megha Mattoo Gupta (id=mB1c8a3)
+	Lekha Gupta-Laws (id=B1c8a31)
+
+Jonathan Richard Weinberg (id=B1c8b)
+Jill Maris (id=mB1c8b)
+	Alexander Michael Weinberg (id=B1c8b1)
+	Jeremy Maris Weinberg (id=B1c8b2)
+
+Ralph Cantos (id=B1d)
+Esther Matsil (id=mB1d)
+	Regina 'Jean' Cantos (id=B1d1)
+	Mannie 'Emanuel' R Cantos (id=B1d2)
+	Molly Cantos (id=B1d3)
+	Annette Cantos (id=B1d4)
+
+Mannie 'Emanuel' R Cantos (id=B1d2)
+Jean (id=mB1d2)
+	no kids (id=nokidsB1d2)
+
+Moushun 'Morris' Cantos (id=B1e)
+Rivkula 'Rebecca' (id=mB1e)
+	Sarah Cantos (id=B1e1)
+
+Sarah Cantos (id=B1e1)
+Menachem 'Max' Benjamin Honan (id=mB1e1)
+	Bernard Honan (id=B1e1a)
+	Annette Honan (id=B1e1b)
+
+Bernard Honan (id=B1e1a)
+Roslyn Martha Vitoulis (id=mB1e1a)
+	Sara Ann Honan (id=B1e1a1)
+	Michael Benjamin Honan (id=B1e1a2)
+	Lydia Marissa Honan (id=B1e1a3)
+
+Sara Ann Honan (id=B1e1a1)
+Charles Milton Crocker Jr. (id=mB1e1a1)
+	no kids (id=nokidsB1e1a1)
+
+Michael Benjamin Honan (id=B1e1a2)
+Roxanne Renee Travelute (id=mB1e1a2)
+	Rachel Elizabeth Honan (id=B1e1a2a)
+	Benjamin Michael Honan (id=B1e1a2b)
+
+Annette Honan (id=B1e1b)
+Isidore 'Izzy' Joseph Cassuto (id=mB1e1b)
+	Susan Joy Cassuto (id=B1e1b1)
+	Sherrie Honan Cassuto (id=B1e1b2)
+	Joseph Cassuto  (id=B1e1b3)
+
+Susan Joy Cassuto (id=B1e1b1)
+Kenneth Rogers (id=mB1e1b1)
+	no kids (id=nokidsB1e1b1)
+
+Joseph Cassuto  (id=B1e1b3)
+Arlyne Elias Cassuto (id=mB1e1b3)
+	Ivan Jared Cassuto (id=B1e1b3a)
+	Blair Amanda Cassuto (id=B1e1b3b)
+	Alexis Cassuto (id=B1e1b3c)
+	Jacqueline Cassuto (id=B1e1b3d)
+
+Solomon 'Sol' Cantos (id=B1f)
+Mollie Levy [see B1c1 above] (id=mB1f)
+	no kids (id=nokidsB1f)
+
+Avram 'Abe' Cantos (id=B1g)
+Sarah Myones (id=mB1g)
+	Mollie Cantos (id=B1g1)
+	Hyman 'Hy' Cantos (id=B1g2)
+	Menachem 'Mannie' A Cantos (id=B1g3)
+	Morris Cantos (id=B1g4)
+	Nathan 'Nat' Cantos (id=B1g5)
+	Esther Cantos (id=B1g6)
+
+Mollie Cantos (id=B1g1)
+Salvatore Zaffos (id=mB1g1)
+	Jacob Zaffos (id=B1g1a)
+	Annette Zapfos (id=B1g1b)
+
+Jacob Zaffos (id=B1g1a)
+Linda (id=mB1g1a)
+	Laura Zaffos (id=B1g1a1)
+
+Annette Zapfos (id=B1g1b)
+Mark Simon (id=mB1g1b)
+	Joshua Simon (id=B1g1b1)
+
+Hyman 'Hy' Cantos (id=B1g2)
+Beverly (id=mB1g2)
+	Allen Cantos (id=B1g2a)
+
+Menachem 'Mannie' A Cantos (id=B1g3)
+Esther Pallas (id=mB1g3)
+	Leonard 'Lenny' Cantos (id=B1g3a)
+	Albert Cantos (id=B1g3b)
+
+Albert Cantos (id=B1g3b)
+Cheryl Blain (id=mB1g3b)
+	no kids (id=nokidsB1g3b)
+
+Morris Cantos (id=B1g4)
+Ann Haidt (id=mB1g4)
+	Brad Cantos (id=B1g4a)
+	Allan Cantos (id=B1g4b)
+
+Brad Cantos (id=B1g4a)
+Barbara Chen (id=mB1g4a)
+	no kids (id=nokidsB1g4a)
+
+Allan Cantos (id=B1g4b)
+Susan Brown (id=mB1g4b)
+	Lauren Cantos (id=B1g4b1)
+	Joel Cantos (id=B1g4b2)
+
+Lauren Cantos (id=B1g4b1)
+Ryan Smith (id=mB1g4b1)
+	no kids (id=nokidsB1g4b1)
+
+Joel Cantos (id=B1g4b2)
+Maithao Nguyen (id=mB1g4b2)
+	Ayla Cantos (id=B1g4b2a)
+
+Nathan 'Nat' Cantos (id=B1g5)
+Shirley Markowitz (id=mB1g5)
+	Eric Cantos (id=B1g5a)
+	Amy Cantos (id=B1g5b)
+
+Eric Cantos (id=B1g5a)
+Ellen Blum (id=mB1g5a)
+	Andrew Cantos (id=B1g5a1)
+	Michael Cantos (id=B1g5a2)
+	Joshua Cantos (id=B1g5a3)
+	Emily Cantos (id=B1g5a4)
+
+Amy Cantos (id=B1g5b)
+Brad Marcus (id=mB1g5b)
+	Rebecca Marcus (id=B1g5b1)
+
+Esther Cantos (id=B1g6)
+Sol Krichevsky (id=mB1g6)
+	Jan Krichevsky (id=B1g6a)
+	Stuart Krichevsky (id=B1g6b)
+
+Jan Krichevsky (id=B1g6a)
+Jack Rhodes (id=mB1g6a)
+	no kids (id=nokidsB1g6a)
+
+Stuart Krichevsky (id=B1g6b)
+Pamela Dorman (id=mB1g6b)
+	Nicholas Krichevsky (id=B1g6b1)
+	Sophia Krichevsky (id=B1g6b2)
